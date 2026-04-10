@@ -1,0 +1,23 @@
+# Internal project files
+CLAUDE.md
+.claude/
+MEMORY/
+.DS_Store
+
+# Sponsor materials
+*.docx
+Perplexity_Computer_YouTube_Creator_Brief.pdf
+
+# Internal production files
+FRAME.md
+STORYBOARD*.html
+STORYBOARD.md
+SOCIAL-POSTS.md
+TRANSCRIPT-WHISPER.md
+TRANSCRIPT.srt
+outline/
+research/
+lab/
+shorts/
+thumbnails/
+storyboard-assets/
